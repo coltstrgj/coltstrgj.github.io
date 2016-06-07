@@ -30,6 +30,9 @@ highlighter: pygments
 lsi:         false
 excerpt_separator: "\n\n"
 
+# Google Analytics
+google_analytics_id: UA-78788781-1
+
 # Serving
 detach:  false
 port:    4000
