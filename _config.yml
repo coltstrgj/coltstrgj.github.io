@@ -31,7 +31,13 @@ lsi:         false
 excerpt_separator: "\n\n"
 
 # Google Analytics
+analytics :
+provider : google
+google : 
 google_analytics_id: UA-78788781-1
+getclicky :
+site_id :
+
 
 # Serving
 detach:  false
